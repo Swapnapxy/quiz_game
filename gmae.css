@@ -1,0 +1,71 @@
+body{
+    background-image: url("gradient-numerology-background_23-2150066816.jpg");
+    background-size: cover;
+}
+.login1, .login2{
+    padding: 10px;
+    float: none;
+    border-radius: 15px;
+    background-color:lightskyblue; 
+}
+#person_1,#person_2{
+    display: inline-block;
+    margin-bottom: 20px;
+}
+.qus,.ans {
+    float: none;
+    padding: 20px;
+    
+}
+.page{
+    float: none;
+border-radius: 15px;
+    background-color: coral;
+}
+h3{
+    text-decoration: underline;
+    font-family: cursive;
+}
+h1{
+    text-decoration-line: underline;
+    text-decoration-style:double;
+    font-family:fantasy;
+}
+.page1{
+    background-color: lightpink;
+    float: none;
+    height: 100px;
+}
+#output{
+    
+    float: none;
+    padding: 10px;
+    
+    background-color: lavenderblush;
+border-radius: 20px;
+    
+    
+}
+input[type="text"],input[type="password"],input[type="email"]{
+    width: 100%;
+    margin: 10px 0;
+    border: 2px solid #ccc;
+    background-color:lavender;
+    color: #333;
+    font-size: 16px;
+
+}
+label {
+    font-weight: bolder;
+    color: black;
+    
+}
+h4{
+    color: white;
+    font-size: 20px;
+}
+#ply1_que,#ply1_ans{
+    color: white;
+    font-size: 30px;
+    
+}
